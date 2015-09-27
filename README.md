@@ -1,4 +1,4 @@
-# DevelopingDataProducts
+# DevelopingDataProducts Project
 Using public data from online ads, this app predicts the monthly rent for apartments in Bogota Colombia.
 
 The data was collected on September 23/2015 using `rvest` package developed by Hadley Wickham and contains 1000 records of the last published ads. Data can be downloaded from this [link](https://www.dropbox.com/s/da3iy8xo1agfojd/tidy.csv?dl=0).
